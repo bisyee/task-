@@ -46,3 +46,4 @@ def get_users():
             "phone": "123-456-7890",
         }
     ]
+users_db = get_users()
